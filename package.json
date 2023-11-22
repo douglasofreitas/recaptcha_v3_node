@@ -1,0 +1,21 @@
+{
+  "name": "recaptcha_v3",
+  "version": "1.0.0",
+  "description": "Site 6Lf_LhkpAAAAAMqQR796Y52oe-tHCMJvuHAysuOa",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "douglas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "keywords": []
+}

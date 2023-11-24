@@ -1,7 +1,7 @@
 {
   "name": "recaptcha_v3",
   "version": "1.0.0",
-  "description": "Site 6Lf_LhkpAAAAAMqQR796Y52oe-tHCMJvuHAysuOa",
+  "description": "Site with recaptcha",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server"
